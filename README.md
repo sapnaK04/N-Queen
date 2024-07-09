@@ -12,8 +12,3 @@ The N-Queens Visualizer is a web-based tool designed to help visualize solutions
 ## Getting Started
 ### Prerequisites
 - A modern web browser (e.g., Chrome, Firefox, Safari).
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/n-queens-visualizer.git
